@@ -47,8 +47,5 @@ mpv продолжает работать.
 
 ⓸ Возможны мелкие недочёты. 
 
-
-Авторство 
------------ 
 ![(2)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)
 **•Код написал MasajiNobe на языке Python**
