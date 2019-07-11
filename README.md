@@ -50,6 +50,6 @@ mpv продолжает работать.
 
 Авторство 
 ----------- 
-•Код написан MasajiNobe 
+**•Код написан MasajiNobe на языке Python**
 
 •github.com/Francesco149/weebp
