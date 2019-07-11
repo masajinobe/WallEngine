@@ -50,6 +50,8 @@ mpv продолжает работать.
 
 Авторство 
 ----------- 
+![(2)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
 **•Код написан MasajiNobe на языке Python**
+
 
 •github.com/Francesco149/weebp
