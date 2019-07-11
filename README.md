@@ -6,6 +6,8 @@ WallEngine - Open-Source Wallpaper Engine
 
 Установка и запуск 
 ----------- 
+**Вы можете скачать последнюю версию со страницы релизов https://github.com/masajinobe/WallEngine/releases.**
+
 ➊ Извлечь **rar** и поместить папку в любом месте. 
 
 ➋ Запускать через **WallEngine.exe** в директории WallEngine (Ярлык по желанию). 
