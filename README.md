@@ -1,7 +1,7 @@
 WallEngine - Open-Source Wallpaper Engine
 ============================= 
 
-![(1)](https://user-images.githubusercontent.com/52446061/61069325-77132780-a425-11e9-9cac-3aeb00b9cc34.gif)
+![](preview.gif)
 
 
 Установка и запуск 
@@ -49,5 +49,5 @@ mpv продолжает работать.
 
 ⓸ Возможны мелкие недочёты. 
 
-![(2)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)
 **•Код написал MasajiNobe на языке Python**
