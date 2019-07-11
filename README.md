@@ -3,7 +3,6 @@ WallEngine - Open-Source Wallpaper Engine
 
 ![](https://i.imgur.com/HQnTcPP.gif)
 
-
 Установка и запуск 
 ----------- 
 ►Извлечь rar и поместить папку в любом месте. 
