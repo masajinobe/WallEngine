@@ -1,7 +1,7 @@
 WallEngine - Open-Source Wallpaper Engine
 ============================= 
 
-![](https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif)
+![](https://media.giphy.com/media/LPf4pSWtf2OgPKl7Bh/giphy.gif)
 
 Установка и запуск 
 ----------- 
