@@ -1,7 +1,7 @@
 WallEngine - Open-Source Wallpaper Engine
 ============================= 
 
-<img src="http://i.imgur.com/IWoCQMbh.gif" width="960" height="540" />
+![Alt Text](http://i.imgur.com/IWoCQMbh.gif)
 
 Установка и запуск 
 ----------- 
