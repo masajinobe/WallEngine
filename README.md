@@ -4,6 +4,11 @@ WallEngine - Open-Source Wallpaper Engine
 ![](https://user-images.githubusercontent.com/52446061/61069325-77132780-a425-11e9-9cac-3aeb00b9cc34.gif)
 
 
+Аппаратное ускорение
+----------- 
+**Скоро...**
+
+
 Установка и запуск 
 ----------- 
 **Вы можете скачать последнюю версию со страницы релизов https://github.com/masajinobe/WallEngine/releases.**
