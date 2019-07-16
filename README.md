@@ -52,7 +52,6 @@ Windows 7 требования
 ⓷ Не реализована пауза когда другая программа развернута на весь экран, 
 mpv продолжает работать. 
 
-⓸ Возможны мелкие недочёты. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)
 **•Код написал MasajiNobe на языке Python**
