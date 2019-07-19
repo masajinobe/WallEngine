@@ -33,7 +33,7 @@ def autorun_on():
         messagebox.showwarning("WallEngine", "Autorun is already enabled.")
     else:
         messagebox.showinfo("WallEngine", "Autorun is enabled.")
-        shutil.copy("autorun.lnk", path1)
+        shutil.copy("launch_muted.lnk", path1)
 
 def autorun_off():
     if os.path.exists(path2):
