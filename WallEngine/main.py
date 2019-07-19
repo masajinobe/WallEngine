@@ -24,7 +24,7 @@ label.pack()
 #Пользователь и пути
 USER_NAME = getpass.getuser()
 path1 = r"C:\Users\%s\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" % USER_NAME
-path2 = r"C:\Users\%s\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\autorun.lnk" % USER_NAME
+path2 = r"C:\Users\%s\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\launch_muted.lnk" % USER_NAME
 
 
 #Меню
