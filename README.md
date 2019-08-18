@@ -52,4 +52,4 @@ mpv продолжает работать.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)
-**•Код написал MasajiNobe на языке Python**
+**•Код написал masajinobe на языке Python**
